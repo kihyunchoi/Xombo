@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Xombo</string>
+    <string name="forgot">Forgot?</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="email">E-mail</string>
+    <string name="pwd">Enter Password</string>
+    <string name="confirmPwd">Confirm Password</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_weight">Weight</string>
+    <string name="title_training">Training</string>
+</resources>

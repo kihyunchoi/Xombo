@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/title_home"
+        android:textColor="@color/nomalColor"/>
+
+    <item
+        android:id="@+id/navigation_weight"
+        android:icon="@drawable/ic_weight"
+        android:title="@string/title_weight"
+        android:textColor="@color/nomalColor"/>
+
+    <item
+        android:id="@+id/navigation_training"
+        android:icon="@drawable/ic_training"
+        android:title="@string/title_training"
+        android:textColor="@color/nomalColor"/>
+
+</menu>
